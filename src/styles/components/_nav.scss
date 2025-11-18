@@ -21,17 +21,17 @@
     transition: color 0.3s ease;
 
     &:hover {
-      color: var(--blue);
+      color: $color-primary;
     }
   }
 
   /* Active link */
   &__link--active {
-    color: var(--blue);
+    color: $color-primary;
 
     &::after {
       content: '';
-      background-color: var(--blue);
+      background-color: $color-primary;
       border-radius: 4px;
       width: 100%;
       height: 4px;
