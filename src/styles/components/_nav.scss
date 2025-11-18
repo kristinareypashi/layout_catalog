@@ -16,9 +16,9 @@
     line-height: 60px;
     text-decoration: none;
     text-transform: uppercase;
-    color: black;
+    color: $color-secondary;
     position: relative;
-    transition: color 0.2s ease;
+    transition: color 0.3s ease;
 
     &:hover {
       color: var(--blue);
@@ -46,7 +46,7 @@
   &__link--hover {
     position: relative;
     top: 0;
-    transition: top 0.2s ease;
+    transition: top 0.3s ease;
 
     &:hover {
       top: 3px;

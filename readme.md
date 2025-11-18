@@ -32,7 +32,7 @@ This is possible because [we use the Parcel library](https://en.parceljs.org/scs
 
 ## Checklist
 
-❗️ Replace `<your_account>` with your GitHub username and copy the links to the `Pull Request` description:
+❗️ Replace `kristinareypashi` with your GitHub username and copy the links to the `Pull Request` description:
 - [DEMO LINK](https://kristinareypashi.github.io/layout_catalog/)
 - [TEST REPORT LINK](https://kristinareypashi.github.io/layout_catalog/report/html_report/)
 
